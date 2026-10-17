@@ -1,0 +1,14 @@
+   {
+    "sites": [    
+        {
+            "id": "0c22e686-b494-4e78-b2e1-7fa919c01e00",
+            "Top": false,
+            "note": "H動漫/裏番/線上看",
+            "GEO": "Non-China",
+            "Search": false,
+            "Adult": true,
+            "name": "hanime1动漫",
+            "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/hanime1.json"
+        }
+    ]
+}
